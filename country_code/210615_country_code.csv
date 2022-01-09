@@ -1,0 +1,250 @@
+"","country","ISO_code_2","ISO_code_3","UN_code","region","WB_class_2019","IMF_class_2019","hdi","life_exp","exp_yr_schooling","mean_yr_schooling","gni_pc","HDI_class_2019"
+"1","Afghanistan","AF","AFG",4,"South Asia","L","LIDC",0.511,64.83,10.17643,3.93,2229.362021,"LHD"
+"2","Albania","AL","ALB",8,"Europe & Central Asia","UM","EME",0.795,78.57,14.69562,10.14573,13998.29989,"HHD"
+"3","Algeria","DZ","DZA",12,"Middle East & North Africa","LM","EME",0.748,76.88,14.60430179,7.986547848,11173.95681,"HHD"
+"4","American Samoa","AS","ASM",16,"East Asia & Pacific","UM",NA,NA,NA,NA,NA,NA,NA
+"5","Andorra","AD","AND",20,"Europe & Central Asia","H",NA,0.868,81.91,13.30023874,10.50176,56000.30336,"VHHD"
+"6","Angola","AO","AGO",24,"Sub-Saharan Africa","LM","EME",0.581,61.15,11.777202,5.173993233,6104.05464,"MHD"
+"7","Anguilla","AI","AIA",660,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","Antarctica","AQ","ATA",10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","Antigua and Barbuda","AG","ATG",28,"Latin America & Caribbean","H","EME",0.778,77.02,12.77203,9.293740746,20895.35881,"HHD"
+"10","Argentina","AR","ARG",32,"Latin America & Caribbean","UM","EME",0.845,76.67,17.6542,10.94060102,21190.17661,"VHHD"
+"11","Armenia","AM","ARM",51,"Europe & Central Asia","UM","EME",0.776,75.09,13.06861,11.30174,13894.01302,"HHD"
+"12","Aruba","AW","ABW",533,"Latin America & Caribbean","H","EME",NA,NA,NA,NA,NA,NA
+"13","Australia","AU","AUS",36,"East Asia & Pacific","H","AE",0.944,83.44,21.95433,12.72469119,48084.84207,"VHHD"
+"14","Austria","AT","AUT",40,"Europe & Central Asia","H","AE",0.922,81.54,16.09207,12.5461436,56196.89869,"VHHD"
+"15","Azerbaijan","AZ","AZE",31,"Europe & Central Asia","UM","EME",0.756,73.01,12.89364,10.57543,13783.67995,"HHD"
+"16","Bahamas","BS","BHS",44,"Latin America & Caribbean","H","EME",0.814,73.92,12.89945,11.43692,33747.21264,"VHHD"
+"17","Bahrain","BH","BHR",48,"Middle East & North Africa","H","EME",0.852,77.29,16.25482,9.5192,42521.70451,"VHHD"
+"18","Bangladesh","BD","BGD",50,"South Asia","LM","LIDC",0.632,72.59,11.59809,6.219339024,4976.209148,"MHD"
+"19","Barbados","BB","BRB",52,"Latin America & Caribbean","H","EME",0.814,79.19,15.39288672,10.64244442,14935.90942,"VHHD"
+"20","Belarus","BY","BLR",112,"Europe & Central Asia","UM","EME",0.823,74.79,15.40479,12.30584324,18546.48713,"VHHD"
+"21","Belgium","BE","BEL",56,"Europe & Central Asia","H","AE",0.931,81.63,19.77438,12.05027,52084.59209,"VHHD"
+"22","Belize","BZ","BLZ",84,"Latin America & Caribbean","UM","EME",0.716,74.62,13.11358,9.921731875,6381.597682,"HHD"
+"23","Benin","BJ","BEN",204,"Sub-Saharan Africa","LM","LIDC",0.545,61.77,12.61455,3.826328,3254.245627,"LHD"
+"24","Bermuda","BM","BMU",60,"North America","H",NA,NA,NA,NA,NA,NA,NA
+"25","Bhutan","BT","BTN",64,"South Asia","LM","LIDC",0.654,71.78,12.982658,4.0738,10745.84396,"MHD"
+"26","Bolivia","BO","BOL",68,"Latin America & Caribbean","LM","EME",0.718,71.51,14.2,9.017540839,8553.783786,"HHD"
+"27","Bonaire and Sint Eustatius and Saba","BQ","BES",535,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","Bosnia and Herzegovina","BA","BIH",70,"Europe & Central Asia","UM","EME",0.78,77.4,13.8,9.81787,14871.81114,"HHD"
+"29","Botswana","BW","BWA",72,"Sub-Saharan Africa","UM","EME",0.735,69.59,12.8495,9.56,16437.14142,"HHD"
+"30","Bouvet Island","BV","BVT",74,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","Brazil","BR","BRA",76,"Latin America & Caribbean","UM","EME",0.765,75.88,15.41401,7.9813,14262.93459,"HHD"
+"32","British Indian Ocean Territory","IO","IOT",86,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Brunei Darussalam","BN","BRN",96,"East Asia & Pacific","H","EME",0.838,75.86,14.31391,9.14,63965.09279,"VHHD"
+"34","Bulgaria","BG","BGR",100,"Europe & Central Asia","UM","EME",0.816,75.05,14.41442,11.36009,23324.6574,"VHHD"
+"35","Burkina Faso","BF","BFA",854,"Sub-Saharan Africa","L","LIDC",0.452,61.58,9.27373,1.644298557,2132.95557,"LHD"
+"36","Burundi","BI","BDI",108,"Sub-Saharan Africa","L","LIDC",0.433,61.58,11.06933,3.287982742,753.9087475,"LHD"
+"37","Cabo Verde","CV","CPV",132,"Sub-Saharan Africa","LM","EME",0.665,72.98,12.7042,6.287719287,7019.168144,"MHD"
+"38","Cambodia","KH","KHM",116,"East Asia & Pacific","LM","LIDC",0.594,69.82,11.46772,4.966,4246.178107,"MHD"
+"39","Cameroon","CM","CMR",120,"Sub-Saharan Africa","LM","LIDC",0.563,59.29,12.10426,6.310862,3580.902737,"MHD"
+"40","Canada","CA","CAN",124,"North America","H","AE",0.929,82.43,16.15789,13.36610479,48527.03573,"VHHD"
+"41","Cayman Islands","KY","CYM",136,"Latin America & Caribbean","H",NA,NA,NA,NA,NA,NA,NA
+"42","Central African Republic","CF","CAF",140,"Sub-Saharan Africa","L","LIDC",0.397,53.28,7.56836,4.282,993.0088419,"LHD"
+"43","Chad","TD","TCD",148,"Sub-Saharan Africa","L","LIDC",0.398,54.24,7.34935,2.52368,1555.373575,"LHD"
+"44","Chile","CL","CHL",152,"Latin America & Caribbean","H","EME",0.851,80.18,16.44755,10.58295,23261.29726,"VHHD"
+"45","China","CN","CHN",156,"East Asia & Pacific","UM","EME",0.761,76.91,13.98429,8.06,16057.39642,"HHD"
+"46","Christmas Island","CX","CXR",162,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","Cocos (Keeling) Islands","CC","CCK",166,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","Colombia","CO","COL",170,"Latin America & Caribbean","UM","EME",0.767,77.29,14.39861,8.46873,14256.67085,"HHD"
+"49","Comoros","KM","COM",174,"Sub-Saharan Africa","LM","LIDC",0.554,64.32,11.2447,5.078649,3099.445776,"MHD"
+"50","Democratic Republic of the Congo","CD","COD",180,"Sub-Saharan Africa","L","LIDC",0.48,60.68,9.729686667,6.76008,1062.543004,"LHD"
+"51","Congo","CG","COG",178,"Sub-Saharan Africa","LM","LIDC",0.574,64.57,11.72662,6.517170529,2879.190985,"MHD"
+"52","Cook Islands","CK","COK",184,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","Costa Rica","CR","CRI",188,"Latin America & Caribbean","UM","EME",0.81,80.28,15.65154,8.74194,18486.37141,"VHHD"
+"54","Croatia","HR","HRV",191,"Europe & Central Asia","H","EME",0.851,78.49,15.22672,11.44932,28069.84837,"VHHD"
+"55","Cuba","CU","CUB",192,"Latin America & Caribbean","UM",NA,0.783,78.8,14.2809,11.7907808,8620.716216,"HHD"
+"56","Curaçao","CW","CUW",531,"Latin America & Caribbean","H",NA,NA,NA,NA,NA,NA,NA
+"57","Cyprus","CY","CYP",196,"Europe & Central Asia","H","AE",0.887,80.98,15.16887,12.17123,38206.84049,"VHHD"
+"58","Czech Republic","CZ","CZE",203,"Europe & Central Asia","H","AE",0.9,79.38,16.78511,12.72238228,38108.56662,"VHHD"
+"59","Cote d'Ivore","CI","CIV",384,"Sub-Saharan Africa","LM","LIDC",0.538,57.78,9.95474,5.288,5068.606313,"LHD"
+"60","Denmark","DK","DNK",208,"Europe & Central Asia","H","AE",0.94,80.9,18.89342,12.61380326,58661.87084,"VHHD"
+"61","Djibouti","DJ","DJI",262,"Middle East & North Africa","LM","LIDC",0.524,67.11,6.791215,4.1,5689.348966,"LHD"
+"62","Dominica","DM","DMA",212,"Latin America & Caribbean","UM","EME",0.742,78.21,12.966179,8.142186,11883.95528,"HHD"
+"63","Dominican Republic","DO","DOM",214,"Latin America & Caribbean","UM","EME",0.756,74.08,14.22252,8.123720269,17591.06522,"HHD"
+"64","Ecuador","EC","ECU",218,"Latin America & Caribbean","UM","EME",0.759,77.01,14.6008,8.907169486,11043.98255,"HHD"
+"65","Egypt","EG","EGY",818,"Middle East & North Africa","LM","EME",0.707,71.99,13.32624,7.434,11466.14512,"HHD"
+"66","El Salvador","SV","SLV",222,"Latin America & Caribbean","LM","EME",0.673,73.32,11.6908,6.907268,8359.115144,"MHD"
+"67","Equatorial Guinea","GQ","GNQ",226,"Sub-Saharan Africa","UM","EME",0.592,58.74,9.73494,5.910863,13944.13223,"MHD"
+"68","Eritrea","ER","ERI",232,"Sub-Saharan Africa","L","LIDC",0.459,66.32,5.0052837,3.9,2793.482718,"LHD"
+"69","Estonia","EE","EST",233,"Europe & Central Asia","H","AE",0.892,78.75,15.989,13.14306146,36019.26692,"VHHD"
+"70","Eswatini","SZ","SWZ",748,"Sub-Saharan Africa","LM","EME",NA,NA,NA,NA,NA,NA
+"71","Ethiopia","ET","ETH",231,"Sub-Saharan Africa","L","LIDC",0.485,66.6,8.813018308,2.883189,2206.534378,"LHD"
+"72","Falkland Islands [Malvinas]","FK","FLK",238,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","Faroe Islands","FO","FRO",234,"Europe & Central Asia","H",NA,NA,NA,NA,NA,NA,NA
+"74","Fiji","FJ","FJI",242,"East Asia & Pacific","UM","EME",0.743,67.44,14.42733,10.90163,13009.07311,"HHD"
+"75","Finland","FI","FIN",246,"Europe & Central Asia","H","AE",0.938,81.91,19.39712,12.82413,48511.3978,"VHHD"
+"76","France","FR","FRA",250,"Europe & Central Asia","H","AE",0.901,82.66,15.64217,11.4795,47172.53748,"VHHD"
+"77","French Guiana","GF","GUF",254,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","French Polynesia","PF","PYF",258,"East Asia & Pacific","H",NA,NA,NA,NA,NA,NA,NA
+"79","French Southern Territories","TF","ATF",260,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","Gabon","GA","GAB",266,"Sub-Saharan Africa","UM","EME",0.703,66.47,12.97731,8.698,13929.80613,"HHD"
+"81","Gambia","GM","GMB",270,"Sub-Saharan Africa","L","LIDC",0.496,62.05,9.911519,3.922,2167.883472,"LHD"
+"82","Georgia","GE","GEO",268,"Europe & Central Asia","UM","EME",0.812,73.77,15.27506,13.13296,14428.79984,"VHHD"
+"83","Germany","DE","DEU",276,"Europe & Central Asia","H","AE",0.947,81.33,16.97719,14.15168,55314.35355,"VHHD"
+"84","Ghana","GH","GHA",288,"Sub-Saharan Africa","LM","LIDC",0.611,64.07,11.48333,7.306,5268.919684,"MHD"
+"85","Gibraltar","GI","GIB",292,"Europe & Central Asia","H",NA,NA,NA,NA,NA,NA,NA
+"86","Greece","GR","GRC",300,"Europe & Central Asia","H","AE",0.888,82.24,17.90792,10.55207,30154.63438,"VHHD"
+"87","Greenland","GL","GRL",304,"Europe & Central Asia","H",NA,NA,NA,NA,NA,NA,NA
+"88","Grenada","GD","GRD",308,"Latin America & Caribbean","UM","EME",0.779,72.4,16.86987,9.032104,15640.88574,"HHD"
+"89","Guadeloupe","GP","GLP",312,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","Guam","GU","GUM",316,"East Asia & Pacific","H",NA,NA,NA,NA,NA,NA,NA
+"91","Guatemala","GT","GTM",320,"Latin America & Caribbean","UM","EME",0.663,74.3,10.75268,6.62261,8494.085111,"MHD"
+"92","Guernsey","GG","GGY",831,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","Guinea","GN","GIN",324,"Sub-Saharan Africa","L","LIDC",0.477,61.6,9.408505,2.774225,2405.181497,"LHD"
+"94","Guinea-Bissau","GW","GNB",624,"Sub-Saharan Africa","L","LIDC",0.48,58.32,10.62385,3.5626,1996.042927,"LHD"
+"95","Guyana","GY","GUY",328,"Latin America & Caribbean","UM","EME",0.682,69.91,11.43113,8.489781305,9455.014358,"MHD"
+"96","Haiti","HT","HTI",332,"Latin America & Caribbean","L","LIDC",0.51,64,9.7,5.592369636,1708.809043,"LHD"
+"97","Heard Island and McDonald Islands","HM","HMD",334,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","Holy See","VA","VAT",336,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","Honduras","HN","HND",340,"Latin America & Caribbean","LM","LIDC",0.634,75.27,10.06014,6.573452,5308.452598,"MHD"
+"100","Hong Kong","HK","HKG",344,"East Asia & Pacific","H","AE",0.949,84.86,16.92947,12.27996,62984.76553,"VHHD"
+"101","Hungary","HU","HUN",348,"Europe & Central Asia","H","EME",0.854,76.88,15.20418,11.96329,31328.80599,"VHHD"
+"102","Iceland","IS","ISL",352,"Europe & Central Asia","H","AE",0.949,82.99,19.08309,12.77278684,54682.38057,"VHHD"
+"103","India","IN","IND",356,"South Asia","LM","EME",0.645,69.66,12.16229,6.5,6681.346904,"MHD"
+"104","Indonesia","ID","IDN",360,"East Asia & Pacific","UM","EME",0.718,71.72,13.60698,8.16668,11459.09692,"HHD"
+"105","Iran","IR","IRN",364,"Middle East & North Africa","UM","EME",0.783,76.68,14.81373,10.34749,12446.66645,"HHD"
+"106","Iraq","IQ","IRQ",368,"Middle East & North Africa","UM","EME",0.674,70.6,11.27,7.316,10800.83898,"MHD"
+"107","Ireland","IE","IRL",372,"Europe & Central Asia","H","AE",0.955,82.31,18.70529,12.6663305,68370.58737,"VHHD"
+"108","Isle of Man","IM","IMN",833,"Europe & Central Asia","H",NA,NA,NA,NA,NA,NA,NA
+"109","Israel","IL","ISR",376,"Middle East & North Africa","H","AE",0.919,82.97,16.16283,13.0348541,40186.84583,"VHHD"
+"110","Italy","IT","ITA",380,"Europe & Central Asia","H","AE",0.892,83.51,16.0889,10.37955,42776.35692,"VHHD"
+"111","Jamaica","JM","JAM",388,"Latin America & Caribbean","UM","EME",0.734,74.48,13.1407323,9.73305,9319.131127,"HHD"
+"112","Japan","JP","JPN",392,"East Asia & Pacific","H","AE",0.919,84.63,15.23057,12.85,42931.69575,"VHHD"
+"113","Jersey","JE","JEY",832,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114","Jordan","JO","JOR",400,"Middle East & North Africa","UM","EME",0.729,74.53,11.3787006,10.518,9858.487276,"HHD"
+"115","Kazakhstan","KZ","KAZ",398,"Europe & Central Asia","UM","EME",0.825,73.6,15.61293,11.8949,22857.46082,"VHHD"
+"116","Kenya","KE","KEN",404,"Sub-Saharan Africa","LM","LIDC",0.601,66.7,11.33941359,6.564,4243.62556,"MHD"
+"117","Kiribati","KI","KIR",296,"East Asia & Pacific","LM","LIDC",0.63,68.37,11.801993,7.984461822,4259.732067,"MHD"
+"118","Korea DPR","KP","PRK",408,"East Asia & Pacific","L",NA,NA,NA,NA,NA,NA,NA
+"119","South Korea","KR","KOR",410,"East Asia & Pacific","H","AE",0.916,83.03,16.48165,12.21376462,43043.71057,"VHHD"
+"120","Kuwait","KW","KWT",414,"Middle East & North Africa","H","EME",0.806,75.49,14.24582,7.275667996,58590.08219,"VHHD"
+"121","Kyrgyzstan","KG","KGZ",417,"Europe & Central Asia","LM","LIDC",0.697,71.45,12.96756,11.10481377,4864.390351,"MHD"
+"122","Lao PDR","LA","LAO",418,"East Asia & Pacific","LM","LIDC",0.613,67.92,10.98724,5.288,7413.33163,"MHD"
+"123","Latvia","LV","LVA",428,"Europe & Central Asia","H","AE",0.866,75.29,16.16769,13.03085,30282.39353,"VHHD"
+"124","Lebanon","LB","LBN",422,"Middle East & North Africa","UM","EME",0.744,78.93,11.28587,8.718636,14654.53395,"HHD"
+"125","Lesotho","LS","LSO",426,"Sub-Saharan Africa","LM","LIDC",0.527,54.33,11.31561,6.53928325,3150.620131,"LHD"
+"126","Liberia","LR","LBR",430,"Sub-Saharan Africa","L","LIDC",0.48,64.1,9.57967,4.806,1258.410853,"LHD"
+"127","Libya","LY","LBY",434,"Middle East & North Africa","UM","EME",0.724,72.91,12.85428,7.599985,15687.71357,"HHD"
+"128","Liechtenstein","LI","LIE",438,"Europe & Central Asia","H",NA,0.919,80.67,14.90233,12.53854,131031.5898,"VHHD"
+"129","Lithuania","LT","LTU",440,"Europe & Central Asia","H","AE",0.882,75.93,16.63731,13.07721,35798.67041,"VHHD"
+"130","Luxembourg","LU","LUX",442,"Europe & Central Asia","H","AE",0.916,82.25,14.25582,12.31145,72711.67412,"VHHD"
+"131","Macao","MO","MAC",446,"East Asia & Pacific","H","AE",NA,NA,NA,NA,NA,NA
+"132","Madagascar","MG","MDG",450,"Sub-Saharan Africa","L","LIDC",0.528,67.04,10.17392,6.1,1596.28108,"LHD"
+"133","Malawi","MW","MWI",454,"Sub-Saharan Africa","L","LIDC",0.483,64.26,11.24191,4.73,1034.677638,"LHD"
+"134","Malaysia","MY","MYS",458,"East Asia & Pacific","UM","EME",0.81,76.16,13.67864,10.37283,27534.09856,"VHHD"
+"135","Maldives","MV","MDV",462,"South Asia","UM","EME",0.74,78.92,12.2,7.020278,17416.77777,"HHD"
+"136","Mali","ML","MLI",466,"Sub-Saharan Africa","L","LIDC",0.434,59.31,7.46103,2.352954412,2268.77278,"LHD"
+"137","Malta","MT","MLT",470,"Middle East & North Africa","H","AE",0.895,82.53,16.10407,11.32613,39554.52078,"VHHD"
+"138","Marshall Islands","MH","MHL",584,"East Asia & Pacific","UM","EME",0.704,74.11,12.39008,10.8856786,5039.043833,"HHD"
+"139","Martinique","MQ","MTQ",474,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","Mauritania","MR","MRT",478,"Sub-Saharan Africa","LM","LIDC",0.546,64.93,8.58834,4.726,5134.570124,"LHD"
+"141","Mauritius","MU","MUS",480,"Sub-Saharan Africa","H","EME",0.804,74.99,15.0566,9.54,25266.21195,"VHHD"
+"142","Mayotte","YT","MYT",175,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143","Mexico","MX","MEX",484,"Latin America & Caribbean","UM","EME",0.779,75.05,14.80978,8.75461,19159.83967,"HHD"
+"144","Micronesia (Federated States of)","FM","FSM",583,"East Asia & Pacific","LM","EME",0.62,67.88,11.54947988,7.804956,3982.736516,"MHD"
+"145","Moldova (the Republic of)","MD","MDA",498,"Europe & Central Asia","LM","LIDC",0.75,71.9,11.53408,11.70817,13663.60669,"HHD"
+"146","Monaco","MC","MCO",492,"Europe & Central Asia","H",NA,NA,NA,NA,NA,NA,NA
+"147","Mongolia","MN","MNG",496,"East Asia & Pacific","LM","EME",0.737,69.87,14.20655,10.2512725,10838.6743,"HHD"
+"148","Montenegro","ME","MNE",499,"Europe & Central Asia","UM","EME",0.829,76.88,14.99968,11.58926489,21399.24713,"VHHD"
+"149","Montserrat","MS","MSR",500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150","Morocco","MA","MAR",504,"Middle East & North Africa","LM","EME",0.686,76.68,13.72117,5.648,7368.360268,"MHD"
+"151","Mozambique","MZ","MOZ",508,"Sub-Saharan Africa","L","LIDC",0.456,60.85,9.97402,3.540898438,1250.405688,"LHD"
+"152","Myanmar","MM","MMR",104,"East Asia & Pacific","LM","LIDC",0.583,67.13,10.67024,5.034490583,4960.528169,"MHD"
+"153","Namibia",NA,"NAM",516,"Sub-Saharan Africa","UM","EME",0.646,63.71,12.63338796,6.99,9356.673607,"MHD"
+"154","Nauru","NR","NRU",520,"East Asia & Pacific","H","EME",NA,NA,NA,NA,NA,NA
+"155","Nepal","NP","NPL",524,"South Asia","LM","LIDC",0.602,70.78,12.75613,5.014,3456.706213,"MHD"
+"156","Netherlands","NL","NLD",528,"Europe & Central Asia","H","AE",0.944,82.28,18.48513,12.4148,57707.06867,"VHHD"
+"157","New Caledonia","NC","NCL",540,"East Asia & Pacific","H",NA,NA,NA,NA,NA,NA,NA
+"158","New Zealand","NZ","NZL",554,"East Asia & Pacific","H","AE",0.931,82.29,18.83857,12.78207732,40798.7196,"VHHD"
+"159","Nicaragua","NI","NIC",558,"Latin America & Caribbean","LM","LIDC",0.66,74.49,12.31796,6.912,5283.658869,"MHD"
+"160","Niger","NE","NER",562,"Sub-Saharan Africa","L","LIDC",0.394,62.42,6.47145,2.079048967,1200.898463,"LHD"
+"161","Nigeria","NG","NGA",566,"Sub-Saharan Africa","LM","LIDC",0.539,54.69,9.975095,6.65519163,4910.208257,"LHD"
+"162","Niue","NU","NIU",570,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","Norfolk Island","NF","NFK",574,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","Northern Mariana Islands","MP","MNP",580,"East Asia & Pacific","H",NA,NA,NA,NA,NA,NA,NA
+"165","Norway","NO","NOR",578,"Europe & Central Asia","H","AE",0.957,82.4,18.06615,12.89775,66494.25217,"VHHD"
+"166","Oman","OM","OMN",512,"Middle East & North Africa","H","EME",0.813,77.86,14.18214,9.731845912,25944.07218,"VHHD"
+"167","Pakistan","PK","PAK",586,"South Asia","LM","EME",0.557,67.27,8.27594,5.158944258,5005.034893,"MHD"
+"168","Palau","PW","PLW",585,"East Asia & Pacific","H","EME",0.826,73.93,15.7967036,12.49143,19316.97453,"VHHD"
+"169","Palestine","PS","PSE",275,"Middle East & North Africa","LM",NA,0.708,74.05,13.4094,9.16551,6417.389121,"HHD"
+"170","Panama","PA","PAN",591,"Latin America & Caribbean","H","EME",0.815,78.51,12.90561,10.24,29557.66834,"VHHD"
+"171","Papua New Guinea","PG","PNG",598,"East Asia & Pacific","LM","LIDC",0.555,64.5,10.199261,4.66,4301.098542,"MHD"
+"172","Paraguay","PY","PRY",600,"Latin America & Caribbean","UM","EME",0.728,74.25,12.71,8.53508,12223.94045,"HHD"
+"173","Peru","PE","PER",604,"Latin America & Caribbean","UM","EME",0.777,76.74,14.99071,9.69633,12252.30018,"HHD"
+"174","Philippines","PH","PHL",608,"East Asia & Pacific","LM","EME",0.718,71.23,13.14836,9.393091398,9777.798117,"HHD"
+"175","Pitcairn","PN","PCN",612,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","Poland","PL","POL",616,"Europe & Central Asia","H","EME",0.88,78.73,16.30117063,12.47232,31622.55302,"VHHD"
+"177","Portugal","PT","PRT",620,"Europe & Central Asia","H","AE",0.864,82.05,16.53579,9.26347,33966.82756,"VHHD"
+"178","Puerto Rico","PR","PRI",630,"Latin America & Caribbean","H","AE",NA,NA,NA,NA,NA,NA
+"179","Qatar","QA","QAT",634,"Middle East & North Africa","H","EME",0.848,80.23,12.03595,9.73144,92418.23036,"VHHD"
+"180","Republic of North Macedonia","MK","MKD",807,"Europe & Central Asia","UM",NA,NA,NA,NA,NA,NA,NA
+"181","Romania","RO","ROU",642,"Europe & Central Asia","H","EME",0.828,76.05,14.25988,11.0708,29497.23164,"VHHD"
+"182","Russia","RU","RUS",643,"Europe & Central Asia","UM","EME",0.824,72.58,15.02735,12.17244258,26157.04711,"VHHD"
+"183","Rwanda","RW","RWA",646,"Sub-Saharan Africa","L","LIDC",0.543,69.02,11.18666,4.417150539,2155.334054,"LHD"
+"184","Réunion","RE","REU",638,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"185","Saint Barthélemy","BL","BLM",652,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186","Saint Helena and Ascension and Tristan da Cunha","SH","SHN",654,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"187","Saint Kitts and Nevis","KN","KNA",659,"Latin America & Caribbean","H",NA,0.779,74.76,13.84533,8.662745,25037.50727,"HHD"
+"188","Saint Lucia","LC","LCA",662,"Latin America & Caribbean","UM",NA,0.759,76.2,13.99927,8.508470732,14615.56978,"HHD"
+"189","Saint Martin (French part)","MF","MAF",663,"Latin America & Caribbean","H",NA,NA,NA,NA,NA,NA,NA
+"190","Saint Pierre and Miquelon","PM","SPM",666,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191","Saint Vincent and the Grenadines","VC","VCT",670,"Latin America & Caribbean","UM",NA,0.738,72.53,14.09404,8.784648,12377.65413,"HHD"
+"192","Samoa","WS","WSM",882,"East Asia & Pacific","UM","EME",0.715,73.32,12.7297,10.77921,6308.652491,"HHD"
+"193","San Marino","SM","SMR",674,"Europe & Central Asia","H","AE",NA,NA,NA,NA,NA,NA
+"194","Sao Tome and Principe","ST","STP",678,"Sub-Saharan Africa","LM",NA,0.625,70.39,12.68717,6.436763183,3952.072482,"MHD"
+"195","Saudi Arabia","SA","SAU",682,"Middle East & North Africa","H","EME",0.854,75.13,16.13575,10.22517,47495.42697,"VHHD"
+"196","Senegal","SN","SEN",686,"Sub-Saharan Africa","LM","LIDC",0.512,67.94,8.58486,3.183085,3309.385734,"LHD"
+"197","Serbia","RS","SRB",688,"Europe & Central Asia","UM","EME",0.806,76,14.73747,11.19411,17191.66873,"VHHD"
+"198","Seychelles","SC","SYC",690,"Sub-Saharan Africa","H","EME",0.796,73.4,14.14966,9.992045,26903.24617,"HHD"
+"199","Sierra Leone","SL","SLE",694,"Sub-Saharan Africa","L","LIDC",0.452,54.7,10.17593,3.7,1667.844447,"LHD"
+"200","Singapore","SG","SGP",702,"East Asia & Pacific","H","AE",0.938,83.62,16.44088,11.62461,88155.21431,"VHHD"
+"201","Sint Maarten (Dutch part)","SX","SXM",534,"Latin America & Caribbean","H",NA,NA,NA,NA,NA,NA,NA
+"202","Slovakia","SK","SVK",703,"Europe & Central Asia","H",NA,0.86,77.54,14.48704,12.69315651,32113.04569,"VHHD"
+"203","Slovenia","SI","SVN",705,"Europe & Central Asia","H","AE",0.917,81.32,17.57206,12.65874,38079.53399,"VHHD"
+"204","Solomon Islands","SB","SLB",90,"East Asia & Pacific","LM","LIDC",0.567,73,10.22041433,5.711848,2253.346153,"MHD"
+"205","Somalia","SO","SOM",706,"Sub-Saharan Africa","L","LIDC",NA,NA,NA,NA,NA,NA
+"206","South Africa","ZA","ZAF",710,"Sub-Saharan Africa","UM","EME",0.709,64.13,13.7912,10.24064634,12129.23006,"HHD"
+"207","South Georgia and the South Sandwich Islands","GS","SGS",239,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","South Sudan","SS","SSD",728,"Sub-Saharan Africa","L","LIDC",0.433,57.85,5.296258,4.8,2003.318894,"LHD"
+"209","Spain","ES","ESP",724,"Europe & Central Asia","H","AE",0.904,83.57,17.61613,10.25178,40974.52408,"VHHD"
+"210","Sri Lanka","LK","LKA",144,"South Asia","LM","EME",0.782,76.98,14.11107,10.63257,12707.36624,"HHD"
+"211","Sudan","SD","SDN",729,"Sub-Saharan Africa","L","LIDC",0.51,65.31,7.884416,3.77,3828.660219,"LHD"
+"212","Suriname","SR","SUR",740,"Latin America & Caribbean","UM","EME",0.738,71.68,13.188028,9.261387,14324.37746,"HHD"
+"213","Svalbard and Jan Mayen","SJ","SJM",744,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214","Sweden","SE","SWE",752,"Europe & Central Asia","H","AE",0.945,82.8,19.48234,12.54847,54507.80504,"VHHD"
+"215","Switzerland","CH","CHE",756,"Europe & Central Asia","H","AE",0.955,83.78,16.32844,13.38081241,69393.52076,"VHHD"
+"216","Syrian Arab Republic","SY","SYR",760,"Middle East & North Africa","L","EME",0.567,72.7,8.8501,5.1,3613.05256,"MHD"
+"217","Taiwan","TW","TWN",158,"East Asia & Pacific","H","AE",NA,NA,NA,NA,NA,NA
+"218","Tajikistan","TJ","TJK",762,"Europe & Central Asia","L","LIDC",0.668,71.1,11.6618,10.7337,3953.598166,"MHD"
+"219","Tanzania","TZ","TZA",834,"Sub-Saharan Africa","LM","LIDC",0.529,65.46,8.0976,6.122,2599.847211,"LHD"
+"220","Thailand","TH","THA",764,"East Asia & Pacific","UM","EME",0.777,77.15,15.0291956,7.9391,17781.19093,"HHD"
+"221","Timor-Leste","TL","TLS",626,"East Asia & Pacific","LM","LIDC",0.606,69.5,12.616098,4.794383,4440.457586,"MHD"
+"222","Togo","TG","TGO",768,"Sub-Saharan Africa","L","LIDC",0.515,61.04,12.66498,4.949925584,1602.34934,"LHD"
+"223","Tokelau","TK","TKL",772,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"224","Tonga","TO","TON",776,"East Asia & Pacific","UM","EME",0.725,70.91,14.40649703,11.24,6364.577962,"HHD"
+"225","Trinidad and Tobago","TT","TTO",780,"Latin America & Caribbean","H","EME",0.796,73.51,12.96,11.034,26230.71569,"HHD"
+"226","Tunisia","TN","TUN",788,"Middle East & North Africa","LM","EME",0.74,76.7,15.12561,7.22022,10414.06361,"HHD"
+"227","Turkey","TR","TUR",792,"Europe & Central Asia","UM","EME",0.82,77.69,16.60266555,8.10682,27700.89481,"VHHD"
+"228","Turkmenistan","TM","TKM",795,"Europe & Central Asia","UM","EME",0.715,68.19,11.1894,10.27379667,14908.6706,"HHD"
+"229","Turks and Caicos Islands","TC","TCA",796,"Latin America & Caribbean","H",NA,NA,NA,NA,NA,NA,NA
+"230","Tuvalu","TV","TUV",798,"East Asia & Pacific","UM","EME",NA,NA,NA,NA,NA,NA
+"231","Uganda","UG","UGA",800,"Sub-Saharan Africa","L","LIDC",0.544,63.37,11.412656,6.171951533,2123.26935,"LHD"
+"232","Ukraine","UA","UKR",804,"Europe & Central Asia","LM","EME",0.779,72.07,15.07384705,11.39749842,13215.9357,"HHD"
+"233","United Arab Emirates","AE","ARE",784,"Middle East & North Africa","H","EME",0.89,77.97,14.3441,12.11122,67462.0953,"VHHD"
+"234","United Kingdom","GB","GBR",826,"Europe & Central Asia","H","AE",0.932,81.32,17.49843,13.24287,46070.64481,"VHHD"
+"235","United States Minor Outlying Islands","UM","UMI",581,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"236","United States","US","USA",840,"North America","H","AE",0.926,78.86,16.31039,13.41344,63825.65748,"VHHD"
+"237","Uruguay","UY","URY",858,"Latin America & Caribbean","H","EME",0.817,77.91,16.83564,8.92573,20063.64222,"VHHD"
+"238","Uzbekistan","UZ","UZB",860,"Europe & Central Asia","LM","LIDC",0.72,71.73,12.05882,11.8072,7141.953943,"HHD"
+"239","Vanuatu","VU","VUT",548,"East Asia & Pacific","LM","EME",0.609,70.47,11.73391,7.064846,3104.799016,"MHD"
+"240","Venezuela","VE","VEN",862,"Latin America & Caribbean","UM","EME",0.711,72.06,12.81608,10.30728,7044.638972,"HHD"
+"241","Vietnam","VN","VNM",704,"East Asia & Pacific","LM","LIDC",0.704,75.4,12.692323,8.32,7432.706806,"HHD"
+"242","Virgin Islands (British)","VG","VGB",92,"Latin America & Caribbean","H",NA,NA,NA,NA,NA,NA,NA
+"243","Virgin Islands (U.S.)","VI","VIR",850,"Latin America & Caribbean","H",NA,NA,NA,NA,NA,NA,NA
+"244","Wallis and Futuna","WF","WLF",876,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"245","Western Sahara","EH","ESH",732,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"246","Yemen","YE","YEM",887,"Middle East & North Africa","L","LIDC",0.47,66.13,8.76899,3.2,1593.704031,"LHD"
+"247","Zambia","ZM","ZMB",894,"Sub-Saharan Africa","LM","LIDC",0.584,63.89,11.478083,7.152016,3325.518591,"MHD"
+"248","Zimbabwe","ZW","ZWE",716,"Sub-Saharan Africa","LM","LIDC",0.571,61.49,10.968732,8.4668,2665.612042,"MHD"
+"249","Åland Islands","AX","ALA",248,NA,NA,NA,NA,NA,NA,NA,NA,NA
