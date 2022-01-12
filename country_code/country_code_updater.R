@@ -1,5 +1,5 @@
 #Country classification
-country_code <- read.csv("~/Documents/GitHub/macroeconomics-research/00_Database/country_code.csv")
+country_code <- read.csv("https://raw.githubusercontent.com/thanhqtran/dataset/main/country_code/country_code.csv")
 url_IMF = 'https://www.imf.org/external/datamapper/FMEconGroup.xlsx'
 url_WB = 'https://databank.worldbank.org/data/download/site-content/OGHIST.xls'
 url_HDI = 'http://hdr.undp.org/sites/default/files/2020_statistical_annex_table_1.xlsx'
@@ -20,4 +20,4 @@ country_code$mean_yr_schooling <- HDIClass2019$mean_yr_schooling[match(country_c
 #2017_PPP_USD
 country_code$gni_pc <- HDIClass2019$gni_pc[match(country_code$country,HDIClass2019$country)]
 country_code$HDI_class_2019 <- HDIClass2019$classification[match(country_code$country,HDIClass2019$country)]
-write.csv(country_code, '/Users/thanhqtran/Documents/GitHub/macroeconomics-research/00_Database/210615_country_code.csv')
+write.csv(country_code, '/path')
