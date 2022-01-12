@@ -5,14 +5,14 @@ url_WB = 'https://databank.worldbank.org/data/download/site-content/OGHIST.xls'
 url_HDI = 'http://hdr.undp.org/sites/default/files/2020_statistical_annex_table_1.xlsx'
 library(readxl)
 #World Bank
-OG2019 <- read_excel("Google Drive/1.1. GPEM Master/4th semester/thesis_1/OG2019.xlsx")
+OG2019 <- read_excel("https://raw.githubusercontent.com/thanhqtran/dataset/main/country_code/downloaded/2019/OG2019.xlsx")
 country_code$region <- OG2019$region[match(country_code$ISO_code_3,OG2019$code)]
 country_code$WB_class_2019 <- OG2019$classification[match(country_code$ISO_code_3,OG2019$code)]
 #IMF
-IMFClass2019 <- read.csv("~/Google Drive/1.1. GPEM Master/4th semester/thesis_1/IMFClass2019.csv")
+IMFClass2019 <- read.csv("https://raw.githubusercontent.com/thanhqtran/dataset/main/country_code/downloaded/2019/IMFClass2019.csv")
 country_code$IMF_class_2019 <- IMFClass2019$classification[match(country_code$country,IMFClass2019$country)]
 #HDI
-HDIClass2019 <- read_excel("Google Drive/1.1. GPEM Master/4th semester/thesis_1/HDIClass2019.xlsx")
+HDIClass2019 <- read_excel("https://raw.githubusercontent.com/thanhqtran/dataset/main/country_code/downloaded/2019/HDIClass2019.xlsx")
 country_code$hdi <- HDIClass2019$hdi[match(country_code$country,HDIClass2019$country)]
 country_code$life_exp <- HDIClass2019$life_exp[match(country_code$country,HDIClass2019$country)]
 country_code$exp_yr_schooling <- HDIClass2019$life_exp[match(country_code$country,HDIClass2019$country)]
