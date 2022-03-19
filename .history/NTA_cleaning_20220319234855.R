@@ -25,8 +25,7 @@ nta_world_new <- subset(nta_world_joint)
 nta_asia_new <- subset(nta_world_new, Region=='Asia')
 selection <- c('Vietnam-2008','Thailand-2004','China-2002','South Korea-2000','Japan-2004')
 nta_selected <- subset(nta_asia_new, id %in% selection)
-# recommend to write to csv and then re-import
-# create a 5-year age group for each country
+# write to csv
 n <- 5
 data <- nta_selected %>%
   group_by(Country, Year) %>%
