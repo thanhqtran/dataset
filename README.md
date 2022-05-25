@@ -24,6 +24,8 @@
 
 [ASEAN Stats](https://data.aseanstats.org/)
 
+[APO Asian Productivity](https://www.apo-tokyo.org/wedo/productivity-measurement/)
+
 [OpenDevelopment](https://opendevelopmentmekong.net/)
 
 [Vietnam's GSO](https://www.gso.gov.vn/en/data-and-statistics/)
@@ -34,8 +36,72 @@
 
 [Macroeconomics Data Sources](https://libguides.umn.edu/c.php?g=843682&p=6527336)
 
-Updated: 2021/06/30
+## A big list of Economics Datasets
+        
+* American Economic Association (AEA) (https://www.aeaweb.org/resources/data)
+
+* Asian Productivity Organization (APO) (https://www.apo-tokyo.org/wedo/productivity-measurement/)
+
+* Asian KLEMS (http://www.asiaklems.net/data/archive.asp)
+
+* ASEAN Stats (https://data.aseanstats.org/)
+
+* Barro-Lee Educational Attainment Dataset (http://www.barrolee.com/)
+
+* BIS Financial Database (https://www.bis.org/statistics/full_data_sets.htm)
+
+* DBnomics – the world's economic database - Aggregates hundreds of [...] (https://db.nomics.world/)
+        
+* EconData from UMD (http://inforumweb.inforumecon.com/econdata/econdatacontents.html)
+        
+* Economic Freedom of the World Data (http://www.freetheworld.com/datasets_efw.html)
+
+* EUKLEMS (https://euklems.eu/query/)
+        
+* Historical MacroEconomic Statistics (http://www.historicalstatistics.org/)
+
+* Historical National Accounts (https://www.rug.nl/ggdc/historicaldevelopment/na/)
+        
+* International Trade Statistics (http://www.econostatistics.co.za/>
+        
+* Internet Product Code Database (http://www.upcdatabase.com/)
+
+* Latin America KLEMS (LAKLEMS) (http://laklems.net/stats/result)
+
+* Maddison Project Database (https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/)
+
+* National Transfer Accounts (NTA) (https://ntaccounts.org/web/nta/show/Browse%20database#H-zfl0oo)
+        
+* Joint External Debt Data Hub (http://www.jedh.org/)
+        
+* Jon Haveman International Trade Data Links (http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html)
+        
+* Long-Term Productivity Database - The Long-Term Productivity database was [...] (http://longtermproductivity.com/download.html)
+        
+* OpenCorporates Database of Companies in the World (https://opencorporates.com/)
+        
+* Our World in Data (http://ourworldindata.org/)
+
+* Penn World Table (https://www.rug.nl/ggdc/productivity/pwt/?lang=en/)
+        
+* SciencesPo World Trade Gravity Datasets (Now CEPII Database) (http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp)
+                
+* The Center for International Data (http://cid.econ.ucdavis.edu)
+        
+* The Atlas of Economic Complexity (Harvard) (https://dataverse.harvard.edu/dataverse/atlas)
+        
+* UN Commodity Trade Statistics (https://comtrade.un.org/data/)
+        
+* UN Human Development Reports (http://hdr.undp.org/en)
+
+* World KLEMS (https://www.worldklems.net/wkanalytical)
+
+* World Input-Output Database (https://www.rug.nl/ggdc/valuechain/wiod/)
+
+Updated: 2022/05/25
 
 **Release note:**
 
 2021/06/30: added State Budget Balances for Vietnam
+
+2022/05/25: added several public datasets
