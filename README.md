@@ -26,6 +26,8 @@
 
 [APO Asian Productivity](https://www.apo-tokyo.org/wedo/productivity-measurement/)
 
+[ADB Input-Output Table](https://data.adb.org/search/content/tags/211)
+
 [OpenDevelopment](https://opendevelopmentmekong.net/)
 
 [Vietnam's GSO](https://www.gso.gov.vn/en/data-and-statistics/)
