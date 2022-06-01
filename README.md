@@ -38,6 +38,8 @@
 
 [Macroeconomics Data Sources](https://libguides.umn.edu/c.php?g=843682&p=6527336)
 
+[World's Statistical Offices](https://edirc.repec.org/statoff.html)
+
 ## A big list of Economics Datasets
         
 * American Economic Association (AEA) (https://www.aeaweb.org/resources/data)
