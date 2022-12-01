@@ -102,6 +102,8 @@
 
 * World Input-Output Database (https://www.rug.nl/ggdc/valuechain/wiod/)
 
+* GRID (Global Repo of Income Dynamics) (https://www.grid-database.org/)
+
 Updated: 2022/05/25
 
 **Release note:**
