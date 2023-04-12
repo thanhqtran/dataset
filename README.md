@@ -112,4 +112,4 @@ Updated: 2022/05/25
 
 2022/05/25: added several public datasets
 
-2023/04/12: added Vietnam's VHLSS datasets
+2023/04/12: added Vietnam's VHLSS and Statistical Yearbook datasets
