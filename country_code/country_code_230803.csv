@@ -31,11 +31,11 @@ Botswana,BW,BWA,72,Botswana,Botswana,Botswana,BWA
 Bouvet Island,BV,BVT,74,Bouvet Island,Bouvet Island,Bouvet Island,BVT
 Brazil,BR,BRA,76,Brazil,Brazil,Brazil,BRA
 British Indian Ocean Territory,IO,IOT,86,British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,IOT
-Brunei Darussalam,BN,BRN,96,Brunei,Brunei Darussalam,Brunei Darussalam,BRN
+Brunei Darussalam,BN,BRN,96,Brunei,Brunei Darussalam,Brunei,BRN
 Bulgaria,BG,BGR,100,Bulgaria,Bulgaria,Bulgaria,BGR
 Burkina Faso,BF,BFA,854,Burkina Faso,Burkina Faso,Burkina Faso,BFA
 Burundi,BI,BDI,108,Burundi,Burundi,Burundi,BDI
-Cabo Verde,CV,CPV,132,Cape Verde,Cape Verde,Cabo Verde,CPV
+Cabo Verde,CV,CPV,132,Cape Verde,Cape Verde,Cape Verde,CPV
 Cambodia,KH,KHM,116,Cambodia,Cambodia,Cambodia,KHM
 Cameroon,CM,CMR,120,Cameroon,Cameroon,Cameroon,CMR
 Canada,CA,CAN,124,Canada,Canada,Canada,CAN
@@ -98,7 +98,7 @@ Haiti,HT,HTI,332,Haiti,Haiti,Haiti,HTI
 Heard Island and McDonald Islands,HM,HMD,334,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Heard Island and McDonald Islands,HMD
 Holy See,VA,VAT,336,Holy See,Holy See,Holy See,VAT
 Honduras,HN,HND,340,Honduras,Honduras,Honduras,HND
-Hong Kong,HK,HKG,344,Hong Kong,Hong Kong,"China, Hong Kong SAR	",HKG
+Hong Kong,HK,HKG,344,Hong Kong,Hong Kong,"China, Hong Kong SAR",HKG
 Hungary,HU,HUN,348,Hungary,Hungary,Hungary,HUN
 Iceland,IS,ISL,352,Iceland,Iceland,Iceland,ISL
 India,IN,IND,356,India,India,India,IND
@@ -120,7 +120,7 @@ Korea DPR,KP,PRK,408,North Korea,North Korea,Korea DPR,PRK
 South Korea,KR,KOR,410,South Korea,South Korea,Korea,KOR
 Kuwait,KW,KWT,414,Kuwait,Kuwait,Kuwait,KWT
 Kyrgyzstan,KG,KGZ,417,Kyrgyzstan,Kyrgyz Republic,Kyrgyzstan,KGZ
-Lao PDR,LA,LAO,418,Laos,Laos,Lao PDR,LAO
+Lao PDR,LA,LAO,418,Laos,Laos,Laos,LAO
 Latvia,LV,LVA,428,Latvia,Latvia,Latvia,LVA
 Lebanon,LB,LBN,422,Lebanon,Lebanon,Lebanon,LBN
 Lesotho,LS,LSO,426,Lesotho,Lesotho,Lesotho,LSO
@@ -143,7 +143,7 @@ Mauritius,MU,MUS,480,Mauritius,Mauritius,Mauritius,MUS
 Mayotte,YT,MYT,175,Mayotte,Mayotte,Mayotte,MYT
 Mexico,MX,MEX,484,Mexico,Mexico,Mexico,MEX
 Micronesia (Federated States of),FM,FSM,583,Micronesia (Federated States of),Micronesia,"Micronesia, Federated States of",FSM
-Moldova (the Republic of),MD,MDA,498,Moldova,Moldova,Moldova (the Republic of),MDA
+Moldova (the Republic of),MD,MDA,498,Moldova,Moldova,Moldova,MDA
 Monaco,MC,MCO,492,Monaco,Monaco,Monaco,MCO
 Mongolia,MN,MNG,496,Mongolia,Mongolia,Mongolia,MNG
 Montenegro,ME,MNE,499,Montenegro,Montenegro,Montenegro,MNE
@@ -214,7 +214,7 @@ Suriname,SR,SUR,740,Suriname,Suriname,Suriname,SUR
 Svalbard and Jan Mayen,SJ,SJM,744,Svalbard and Jan Mayen,Svalbard and Jan Mayen,Svalbard and Jan Mayen,SJM
 Sweden,SE,SWE,752,Sweden,Sweden,Sweden,SWE
 Switzerland,CH,CHE,756,Switzerland,Switzerland,Switzerland,CHE
-Syrian Arab Republic,SY,SYR,760,Syria,Syria,Syrian Arab Republic,SYR
+Syrian Arab Republic,SY,SYR,760,Syria,Syria,Syria,SYR
 Taiwan,TW,TWN,158,Taiwan,Taiwan,Taiwan,TWN
 Tajikistan,TJ,TJK,762,Tajikistan,Tajikistan,Tajikistan,TJK
 Tanzania,TZ,TZA,834,Tanzania,Tanzania,Tanzania,TZA
