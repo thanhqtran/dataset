@@ -31,11 +31,11 @@ Botswana,BW,BWA,72,Botswana,Botswana,Botswana
 Bouvet Island,BV,BVT,74,Bouvet Island,Bouvet Island,Bouvet Island
 Brazil,BR,BRA,76,Brazil,Brazil,Brazil
 British Indian Ocean Territory,IO,IOT,86,British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory
-Brunei Darussalam,BN,BRN,96,Brunei,Brunei Darussalam,Brunei Darussalam
+Brunei Darussalam,BN,BRN,96,Brunei,Brunei Darussalam,Brunei
 Bulgaria,BG,BGR,100,Bulgaria,Bulgaria,Bulgaria
 Burkina Faso,BF,BFA,854,Burkina Faso,Burkina Faso,Burkina Faso
 Burundi,BI,BDI,108,Burundi,Burundi,Burundi
-Cabo Verde,CV,CPV,132,Cape Verde,Cape Verde,Cabo Verde
+Cabo Verde,CV,CPV,132,Cape Verde,Cape Verde,Cape Verde
 Cambodia,KH,KHM,116,Cambodia,Cambodia,Cambodia
 Cameroon,CM,CMR,120,Cameroon,Cameroon,Cameroon
 Canada,CA,CAN,124,Canada,Canada,Canada
@@ -120,7 +120,7 @@ Korea DPR,KP,PRK,408,North Korea,North Korea,Korea DPR
 South Korea,KR,KOR,410,South Korea,South Korea,Korea
 Kuwait,KW,KWT,414,Kuwait,Kuwait,Kuwait
 Kyrgyzstan,KG,KGZ,417,Kyrgyzstan,Kyrgyz Republic,Kyrgyzstan
-Lao PDR,LA,LAO,418,Laos,Laos,Lao PDR
+Lao PDR,LA,LAO,418,Laos,Laos,Laos
 Latvia,LV,LVA,428,Latvia,Latvia,Latvia
 Lebanon,LB,LBN,422,Lebanon,Lebanon,Lebanon
 Lesotho,LS,LSO,426,Lesotho,Lesotho,Lesotho
@@ -143,7 +143,7 @@ Mauritius,MU,MUS,480,Mauritius,Mauritius,Mauritius
 Mayotte,YT,MYT,175,Mayotte,Mayotte,Mayotte
 Mexico,MX,MEX,484,Mexico,Mexico,Mexico
 Micronesia (Federated States of),FM,FSM,583,Micronesia (Federated States of),Micronesia,"Micronesia, Federated States of"
-Moldova (the Republic of),MD,MDA,498,Moldova,Moldova,Moldova (the Republic of)
+Moldova (the Republic of),MD,MDA,498,Moldova,Moldova,Moldova
 Monaco,MC,MCO,492,Monaco,Monaco,Monaco
 Mongolia,MN,MNG,496,Mongolia,Mongolia,Mongolia
 Montenegro,ME,MNE,499,Montenegro,Montenegro,Montenegro
@@ -214,7 +214,7 @@ Suriname,SR,SUR,740,Suriname,Suriname,Suriname
 Svalbard and Jan Mayen,SJ,SJM,744,Svalbard and Jan Mayen,Svalbard and Jan Mayen,Svalbard and Jan Mayen
 Sweden,SE,SWE,752,Sweden,Sweden,Sweden
 Switzerland,CH,CHE,756,Switzerland,Switzerland,Switzerland
-Syrian Arab Republic,SY,SYR,760,Syria,Syria,Syrian Arab Republic
+Syrian Arab Republic,SY,SYR,760,Syria,Syria,Syria
 Taiwan,TW,TWN,158,Taiwan,Taiwan,Taiwan
 Tajikistan,TJ,TJK,762,Tajikistan,Tajikistan,Tajikistan
 Tanzania,TZ,TZA,834,Tanzania,Tanzania,Tanzania
