@@ -1,0 +1,219 @@
+country_x,Code,Income group,Year,country_y,ISO_code_3
+Afghanistan,AFG,Low income,2020,Afghanistan,AFG
+Albania,ALB,Upper middle income,2020,Albania,ALB
+Algeria,DZA,Lower middle income,2020,Algeria,DZA
+American Samoa,ASM,Upper middle income,2020,American Samoa,ASM
+Andorra,AND,High income,2020,Andorra,AND
+Angola,AGO,Lower middle income,2020,Angola,AGO
+Antigua and Barbuda,ATG,High income,2020,Antigua and Barbuda,ATG
+Argentina,ARG,Upper middle income,2020,Argentina,ARG
+Armenia,ARM,Upper middle income,2020,Armenia,ARM
+Aruba,ABW,High income,2020,Aruba,ABW
+Australia,AUS,High income,2020,Australia,AUS
+Austria,AUT,High income,2020,Austria,AUT
+Azerbaijan,AZE,Upper middle income,2020,Azerbaijan,AZE
+Bahamas,BHS,High income,2020,Bahamas,BHS
+Bahrain,BHR,High income,2020,Bahrain,BHR
+Bangladesh,BGD,Lower middle income,2020,Bangladesh,BGD
+Barbados,BRB,High income,2020,Barbados,BRB
+Belarus,BLR,Upper middle income,2020,Belarus,BLR
+Belgium,BEL,High income,2020,Belgium,BEL
+Belize,BLZ,Upper middle income,2020,Belize,BLZ
+Benin,BEN,Lower middle income,2020,Benin,BEN
+Bermuda,BMU,High income,2020,Bermuda,BMU
+Bhutan,BTN,Lower middle income,2020,Bhutan,BTN
+Bolivia,BOL,Lower middle income,2020,Bolivia,BOL
+Bosnia and Herzegovina,BIH,Upper middle income,2020,Bosnia and Herzegovina,BIH
+Botswana,BWA,Upper middle income,2020,Botswana,BWA
+Brazil,BRA,Upper middle income,2020,Brazil,BRA
+British Virgin Islands,VGB,High income,2020,Virgin Islands (British),VGB
+Brunei,BRN,High income,2020,Brunei Darussalam,BRN
+Bulgaria,BGR,Upper middle income,2020,Bulgaria,BGR
+Burkina Faso,BFA,Low income,2020,Burkina Faso,BFA
+Burundi,BDI,Low income,2020,Burundi,BDI
+Cape Verde,CPV,Lower middle income,2020,Cabo Verde,CPV
+Cambodia,KHM,Lower middle income,2020,Cambodia,KHM
+Cameroon,CMR,Lower middle income,2020,Cameroon,CMR
+Canada,CAN,High income,2020,Canada,CAN
+Cayman Islands,CYM,High income,2020,Cayman Islands,CYM
+Central African Republic,CAF,Low income,2020,Central African Republic,CAF
+Chad,TCD,Low income,2020,Chad,TCD
+Channel Islands,CHI,High income,2020,,
+Chile,CHL,High income,2020,Chile,CHL
+China,CHN,Upper middle income,2020,China,CHN
+Colombia,COL,Upper middle income,2020,Colombia,COL
+Comoros,COM,Lower middle income,2020,Comoros,COM
+Democratic Republic of Congo,COD,Low income,2020,Democratic Republic of the Congo,COD
+Congo,COG,Lower middle income,2020,Congo,COG
+Costa Rica,CRI,Upper middle income,2020,Costa Rica,CRI
+Cote d'Ivoire,CIV,Lower middle income,2020,Cote d'Ivore,CIV
+Croatia,HRV,High income,2020,Croatia,HRV
+Cuba,CUB,Upper middle income,2020,Cuba,CUB
+Curacao,CUW,High income,2020,CuraÃÂ§ao,CUW
+Cyprus,CYP,High income,2020,Cyprus,CYP
+Czechia,CZE,High income,2020,Czech Republic,CZE
+Denmark,DNK,High income,2020,Denmark,DNK
+Djibouti,DJI,Lower middle income,2020,Djibouti,DJI
+Dominica,DMA,Upper middle income,2020,Dominica,DMA
+Dominican Republic,DOM,Upper middle income,2020,Dominican Republic,DOM
+Ecuador,ECU,Upper middle income,2020,Ecuador,ECU
+Egypt,EGY,Lower middle income,2020,Egypt,EGY
+El Salvador,SLV,Lower middle income,2020,El Salvador,SLV
+Equatorial Guinea,GNQ,Upper middle income,2020,Equatorial Guinea,GNQ
+Eritrea,ERI,Low income,2020,Eritrea,ERI
+Estonia,EST,High income,2020,Estonia,EST
+Eswatini,SWZ,Lower middle income,2020,Eswatini,SWZ
+Ethiopia,ETH,Low income,2020,Ethiopia,ETH
+Faeroe Islands,FRO,High income,2020,Faroe Islands,FRO
+Fiji,FJI,Upper middle income,2020,Fiji,FJI
+Finland,FIN,High income,2020,Finland,FIN
+France,FRA,High income,2020,France,FRA
+French Polynesia,PYF,High income,2020,French Polynesia,PYF
+Gabon,GAB,Upper middle income,2020,Gabon,GAB
+Gambia,GMB,Low income,2020,Gambia,GMB
+Georgia,GEO,Upper middle income,2020,Georgia,GEO
+Germany,DEU,High income,2020,Germany,DEU
+Ghana,GHA,Lower middle income,2020,Ghana,GHA
+Gibraltar,GIB,High income,2020,Gibraltar,GIB
+Greece,GRC,High income,2020,Greece,GRC
+Greenland,GRL,High income,2020,Greenland,GRL
+Grenada,GRD,Upper middle income,2020,Grenada,GRD
+Guam,GUM,High income,2020,Guam,GUM
+Guatemala,GTM,Upper middle income,2020,Guatemala,GTM
+Guinea,GIN,Low income,2020,Guinea,GIN
+Guinea-Bissau,GNB,Low income,2020,Guinea-Bissau,GNB
+Guyana,GUY,Upper middle income,2020,Guyana,GUY
+Haiti,HTI,Lower middle income,2020,Haiti,HTI
+Honduras,HND,Lower middle income,2020,Honduras,HND
+Hong Kong,HKG,High income,2020,Hong Kong,HKG
+Hungary,HUN,High income,2020,Hungary,HUN
+Iceland,ISL,High income,2020,Iceland,ISL
+India,IND,Lower middle income,2020,India,IND
+Indonesia,IDN,Lower middle income,2020,Indonesia,IDN
+Iran,IRN,Lower middle income,2020,Iran,IRN
+Iraq,IRQ,Upper middle income,2020,Iraq,IRQ
+Ireland,IRL,High income,2020,Ireland,IRL
+Isle of Man,IMN,High income,2020,Isle of Man,IMN
+Israel,ISR,High income,2020,Israel,ISR
+Italy,ITA,High income,2020,Italy,ITA
+Jamaica,JAM,Upper middle income,2020,Jamaica,JAM
+Japan,JPN,High income,2020,Japan,JPN
+Jordan,JOR,Upper middle income,2020,Jordan,JOR
+Kazakhstan,KAZ,Upper middle income,2020,Kazakhstan,KAZ
+Kenya,KEN,Lower middle income,2020,Kenya,KEN
+Kiribati,KIR,Lower middle income,2020,Kiribati,KIR
+North Korea,PRK,Low income,2020,Korea DPR,PRK
+South Korea,KOR,High income,2020,South Korea,KOR
+Kosovo,OWID_KOS,Upper middle income,2020,,
+Kuwait,KWT,High income,2020,Kuwait,KWT
+Kyrgyzstan,KGZ,Lower middle income,2020,Kyrgyzstan,KGZ
+Laos,LAO,Lower middle income,2020,Lao PDR,LAO
+Latvia,LVA,High income,2020,Latvia,LVA
+Lebanon,LBN,Lower middle income,2020,Lebanon,LBN
+Lesotho,LSO,Lower middle income,2020,Lesotho,LSO
+Liberia,LBR,Low income,2020,Liberia,LBR
+Libya,LBY,Upper middle income,2020,Libya,LBY
+Liechtenstein,LIE,High income,2020,Liechtenstein,LIE
+Lithuania,LTU,High income,2020,Lithuania,LTU
+Luxembourg,LUX,High income,2020,Luxembourg,LUX
+Macao,MAC,High income,2020,Macao,MAC
+Madagascar,MDG,Low income,2020,Madagascar,MDG
+Malawi,MWI,Low income,2020,Malawi,MWI
+Malaysia,MYS,Upper middle income,2020,Malaysia,MYS
+Maldives,MDV,Upper middle income,2020,Maldives,MDV
+Mali,MLI,Low income,2020,Mali,MLI
+Malta,MLT,High income,2020,Malta,MLT
+Marshall Islands,MHL,Upper middle income,2020,Marshall Islands,MHL
+Mauritania,MRT,Lower middle income,2020,Mauritania,MRT
+Mauritius,MUS,Upper middle income,2020,Mauritius,MUS
+Mexico,MEX,Upper middle income,2020,Mexico,MEX
+Micronesia (country),FSM,Lower middle income,2020,Micronesia (Federated States of),FSM
+Moldova,MDA,Upper middle income,2020,Moldova (the Republic of),MDA
+Monaco,MCO,High income,2020,Monaco,MCO
+Mongolia,MNG,Lower middle income,2020,Mongolia,MNG
+Montenegro,MNE,Upper middle income,2020,Montenegro,MNE
+Morocco,MAR,Lower middle income,2020,Morocco,MAR
+Mozambique,MOZ,Low income,2020,Mozambique,MOZ
+Myanmar,MMR,Lower middle income,2020,Myanmar,MMR
+Namibia,NAM,Upper middle income,2020,Namibia,NAM
+Nauru,NRU,High income,2020,Nauru,NRU
+Nepal,NPL,Lower middle income,2020,Nepal,NPL
+Netherlands,NLD,High income,2020,Netherlands,NLD
+New Caledonia,NCL,High income,2020,New Caledonia,NCL
+New Zealand,NZL,High income,2020,New Zealand,NZL
+Nicaragua,NIC,Lower middle income,2020,Nicaragua,NIC
+Niger,NER,Low income,2020,Niger,NER
+Nigeria,NGA,Lower middle income,2020,Nigeria,NGA
+North Macedonia,MKD,Upper middle income,2020,Republic of North Macedonia,MKD
+Northern Mariana Islands,MNP,High income,2020,Northern Mariana Islands,MNP
+Norway,NOR,High income,2020,Norway,NOR
+Oman,OMN,High income,2020,Oman,OMN
+Pakistan,PAK,Lower middle income,2020,Pakistan,PAK
+Palau,PLW,Upper middle income,2020,Palau,PLW
+Panama,PAN,High income,2020,Panama,PAN
+Papua New Guinea,PNG,Lower middle income,2020,Papua New Guinea,PNG
+Paraguay,PRY,Upper middle income,2020,Paraguay,PRY
+Peru,PER,Upper middle income,2020,Peru,PER
+Philippines,PHL,Lower middle income,2020,Philippines,PHL
+Poland,POL,High income,2020,Poland,POL
+Portugal,PRT,High income,2020,Portugal,PRT
+Puerto Rico,PRI,High income,2020,Puerto Rico,PRI
+Qatar,QAT,High income,2020,Qatar,QAT
+Romania,ROU,High income,2020,Romania,ROU
+Russia,RUS,Upper middle income,2020,Russia,RUS
+Rwanda,RWA,Low income,2020,Rwanda,RWA
+Samoa,WSM,Lower middle income,2020,Samoa,WSM
+San Marino,SMR,High income,2020,San Marino,SMR
+Sao Tome and Principe,STP,Lower middle income,2020,Sao Tome and Principe,STP
+Saudi Arabia,SAU,High income,2020,Saudi Arabia,SAU
+Senegal,SEN,Lower middle income,2020,Senegal,SEN
+Serbia,SRB,Upper middle income,2020,Serbia,SRB
+Seychelles,SYC,High income,2020,Seychelles,SYC
+Sierra Leone,SLE,Low income,2020,Sierra Leone,SLE
+Singapore,SGP,High income,2020,Singapore,SGP
+Sint Maarten (Dutch part),SXM,High income,2020,Sint Maarten (Dutch part),SXM
+Slovakia,SVK,High income,2020,Slovakia,SVK
+Slovenia,SVN,High income,2020,Slovenia,SVN
+Solomon Islands,SLB,Lower middle income,2020,Solomon Islands,SLB
+Somalia,SOM,Low income,2020,Somalia,SOM
+South Africa,ZAF,Upper middle income,2020,South Africa,ZAF
+South Sudan,SSD,Low income,2020,South Sudan,SSD
+Spain,ESP,High income,2020,Spain,ESP
+Sri Lanka,LKA,Lower middle income,2020,Sri Lanka,LKA
+Saint Kitts and Nevis,KNA,High income,2020,Saint Kitts and Nevis,KNA
+Saint Lucia,LCA,Upper middle income,2020,Saint Lucia,LCA
+Saint Martin (French part),MAF,High income,2020,Saint Martin (French part),MAF
+Saint Vincent and the Grenadines,VCT,Upper middle income,2020,Saint Vincent and the Grenadines,VCT
+Sudan,SDN,Low income,2020,Sudan,SDN
+Suriname,SUR,Upper middle income,2020,Suriname,SUR
+Sweden,SWE,High income,2020,Sweden,SWE
+Switzerland,CHE,High income,2020,Switzerland,CHE
+Syria,SYR,Low income,2020,Syrian Arab Republic,SYR
+Taiwan,TWN,High income,2020,Taiwan,TWN
+Tajikistan,TJK,Lower middle income,2020,Tajikistan,TJK
+Tanzania,TZA,Lower middle income,2020,Tanzania,TZA
+Thailand,THA,Upper middle income,2020,Thailand,THA
+Timor,TLS,Lower middle income,2020,Timor-Leste,TLS
+Togo,TGO,Low income,2020,Togo,TGO
+Tonga,TON,Upper middle income,2020,Tonga,TON
+Trinidad and Tobago,TTO,High income,2020,Trinidad and Tobago,TTO
+Tunisia,TUN,Lower middle income,2020,Tunisia,TUN
+Turkey,TUR,Upper middle income,2020,Turkey,TUR
+Turkmenistan,TKM,Upper middle income,2020,Turkmenistan,TKM
+Turks and Caicos Islands,TCA,High income,2020,Turks and Caicos Islands,TCA
+Tuvalu,TUV,Upper middle income,2020,Tuvalu,TUV
+Uganda,UGA,Low income,2020,Uganda,UGA
+Ukraine,UKR,Lower middle income,2020,Ukraine,UKR
+United Arab Emirates,ARE,High income,2020,United Arab Emirates,ARE
+United Kingdom,GBR,High income,2020,United Kingdom,GBR
+United States,USA,High income,2020,United States,USA
+Uruguay,URY,High income,2020,Uruguay,URY
+Uzbekistan,UZB,Lower middle income,2020,Uzbekistan,UZB
+Vanuatu,VUT,Lower middle income,2020,Vanuatu,VUT
+Venezuela,VEN,Upper middle income,2020,Venezuela,VEN
+Vietnam,VNM,Lower middle income,2020,Vietnam,VNM
+United States Virgin Islands,VIR,High income,2020,Virgin Islands (U.S.),VIR
+Palestine,PSE,Lower middle income,2020,Palestine,PSE
+Yemen,YEM,Low income,2020,Yemen,YEM
+Zambia,ZMB,Low income,2020,Zambia,ZMB
+Zimbabwe,ZWE,Lower middle income,2020,Zimbabwe,ZWE
