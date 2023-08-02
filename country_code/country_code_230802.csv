@@ -49,12 +49,12 @@ Cocos (Keeling) Islands,CC,CCK,166,Cocos (Keeling) Islands,Cocos (Keeling) Islan
 Colombia,CO,COL,170,Colombia,Colombia
 Comoros,KM,COM,174,Comoros,Comoros
 Democratic Republic of the Congo,CD,COD,180,Democratic Republic of the Congo,Congo Democratic Republic
-Congo,CG,COG,178,Republic of Congo,Congo Republic
+Congo,CG,COG,178,Republic of the Congo,Congo Republic
 Cook Islands,CK,COK,184,Cook Islands,Cook Islands
 Costa Rica,CR,CRI,188,Costa Rica,Costa Rica
 Croatia,HR,HRV,191,Croatia,Croatia
 Cuba,CU,CUB,192,Cuba,Cuba
-Curaçao,CW,CUW,531,Curaçao,Curaçao
+CuraÃ§ao,CW,CUW,531,CuraÃ§ao,CuraÃ§ao
 Cyprus,CY,CYP,196,Cyprus,Cyprus
 Czech Republic,CZ,CZE,203,Czech Republic,Czech Republic
 Cote d'Ivore,CI,CIV,384,Ivory Coast,Ivory Coast
@@ -182,8 +182,8 @@ Republic of North Macedonia,MK,MKD,807,North Macedonia,North Macedonia
 Romania,RO,ROU,642,Romania,Romania
 Russia,RU,RUS,643,Russia,Russia
 Rwanda,RW,RWA,646,Rwanda,Rwanda
-Réunion,RE,REU,638,Réunion,Réunion
-Saint Barthélemy,BL,BLM,652,Saint Barthélemy,Saint Barthélemy
+RÃ©union,RE,REU,638,RÃ©union,RÃ©union
+Saint BarthÃ©lemy,BL,BLM,652,Saint BarthÃ©lemy,Saint BarthÃ©lemy
 Saint Helena and Ascension and Tristan da Cunha,SH,SHN,654,Saint Helena and Ascension and Tristan da Cunha,Saint Helena and Ascension and Tristan da Cunha
 Saint Kitts and Nevis,KN,KNA,659,Saint Kitts and Nevis,Saint Kitts and Nevis
 Saint Lucia,LC,LCA,662,Saint Lucia,Saint Lucia
@@ -192,7 +192,7 @@ Saint Pierre and Miquelon,PM,SPM,666,Saint Pierre and Miquelon,Saint Pierre and 
 Saint Vincent and the Grenadines,VC,VCT,670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines
 Samoa,WS,WSM,882,Samoa,Samoa
 San Marino,SM,SMR,674,San Marino,San Marino
-Sao Tome and Principe,ST,STP,678,S�o Tom� and Pr�ncipe,S�o Tom� and Pr�ncipe
+Sao Tome and Principe,ST,STP,678,So Tom and Prncipe,So Tom and Prncipe
 Saudi Arabia,SA,SAU,682,Saudi Arabia,Saudi Arabia
 Senegal,SN,SEN,686,Senegal,Senegal
 Serbia,RS,SRB,688,Serbia,Serbia
